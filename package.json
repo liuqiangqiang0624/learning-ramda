@@ -1,0 +1,14 @@
+{
+  "name": "learning-ramda",
+  "version": "1.0.0",
+  "description": "learning ramda",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "380008763@qq.com",
+  "license": "ISC",
+  "dependencies": {
+    "ramda": "^0.26.1"
+  }
+}
